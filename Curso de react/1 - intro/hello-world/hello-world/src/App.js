@@ -12,7 +12,7 @@ function App() {
         <h2 className='App-h2'>
           test text h2
         </h2>
-      </header>
+      </header> 
     </div>
   );
 }
